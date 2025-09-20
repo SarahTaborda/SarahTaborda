@@ -16,7 +16,6 @@
   </a>
 </div>
 
-  ##
 <!--Devicon para pegar as imagens das linguagens-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
