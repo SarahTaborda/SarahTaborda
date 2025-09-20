@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/SarahTaborda/github-readme-stats">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=SarahTaborda&show_icons=true&theme=dark" />
+    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=SarahTaborda&show_icons=true&theme=dark&include_all_commits=true" />
   </a>
     
 ## Linguagens mais usadas
