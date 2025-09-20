@@ -34,7 +34,7 @@
   ##
 <!--para pegar as imagens https://dev.to/envoy_/150-badges-for-github-pnk das redes sociais-->
 <div>
-    <a href="https://www.instagram.com/sarah.taborda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">    </a> 
+    <a href="https://www.instagram.com/sarah.taborda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href = "mailto:sarahtaborda229@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/sarah-taborda-018516210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/sarah-taborda-018516210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
