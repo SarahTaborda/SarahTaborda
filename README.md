@@ -1,18 +1,23 @@
-## Oii! Eu sou a Sarah Taborda
+# Oii! Eu sou a Sarah Taborda
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SarahTaborda&repo=Livraria-Evermore&theme=dark)](https://github.com/SarahTaborda/Livraria-Evermore)
+## Sobre mim
 
 - 🔭 Atualmente não estou trabalhando na área, mas estou aberta a oportunidades!
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 - 😄 Pronouns: ela/dela
 
+## Projetos
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SarahTaborda&repo=Livraria-Evermore&theme=dark)](https://github.com/SarahTaborda/Livraria-Evermore)
+
+## GitHub Stats
+
 <div>
   <a href="https://github.com/SarahTaborda/github-readme-stats">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=SarahTaborda&show_icons=true&theme=dark" />
+    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=SarahTaborda&show_icons=true&theme=dark&include_all_commits" />
   </a>
     
-##
-
+## Linguagens mais usadas
   <a href="https://github.com/SarahTaborda/convoychat">
     <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarahTaborda&layout=compact&langs_count=8&card_width=420&theme=dark" />
   </a>
@@ -20,9 +25,9 @@
 
 <!--Devicon para pegar as imagens das linguagens-->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
