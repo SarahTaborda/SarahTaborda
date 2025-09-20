@@ -1,5 +1,7 @@
 ## Oii! Eu sou a Sarah Taborda
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SarahTaborda&repo=Livraria-Evermore&theme=dark)](https://github.com/SarahTaborda/Livraria-Evermore)
+
 - 🔭 Atualmente não estou trabalhando na área, mas estou aberta a oportunidades!
 - 🌱 Estudando HTML5, CSS3 e JavaScript
 - 😄 Pronouns: ela/dela
